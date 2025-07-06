@@ -1,56 +1,72 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdarrhmanessetaoui/abdarrhmanessetaoui/main/banner.png" alt="Abderrhman Settaoui Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/abdarrhmanessetaoui/abdarrhmanessetaoui/main/banner.png" alt="Banner" />
 </p>
 
-
-<h1 align="center">Salut 👋, je suis Abderrhman</h1>
-
-<p align="center">
-  💻 Étudiant en Développement Digital @ OFPPT<br/>
-  🚀 Full-stack passionné : PHP | Laravel | React | Node.js<br/>
-  📍 Marrakech, Maroc &nbsp;|&nbsp; 📫 ssetaouiabdarrhmane2004@gmail.com
-</p>
-
----
-
-### 🧠 À propos de moi :
-
-- 🔭 Je travaille actuellement sur des **projets Laravel et React**
-- 🌱 J'apprends chaque jour : **Dev Web, Git, UI/UX, Tailwind**
-- 💬 N’hésite pas à me poser des questions sur **PHP / MySQL / Laravel / React**
-- 📫 Comment me joindre ? Voir en bas 👇
-- 👨‍💻 Portfolio en construction (React + Tailwind)
-
----
-
-### 🛠️ Compétences
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
----
-
-### 📊 Stats GitHub
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B+je+suis+Abderrhman+Settaoui;Développeur+Full-stack+en+formation+@OFPPT;PHP+%7C+Laravel+%7C+React+%7C+Node.js;Passionné+par+le+Web+moderne" alt="Typing animation" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical" alt="github stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=abdarrhmanessetaoui&theme=radical" alt="streak stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=radical" alt="top langs" />
+  <a href="mailto:ssetaouiabdarrhmane2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-facc15?style=for-the-badge&logo=gmail&logoColor=111827&labelColor=f3f4f6" />
+  </a>
+  <a href="https://www.linkedin.com/in/abderrhman-settaoui-33569b305/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🔗 Me trouver ailleurs
+## 🚀 À propos de moi
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrhman-settaoui-33569b305/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ssetaouiabdarrhmane2004@gmail.com)
+🎓 Étudiant en **Développement Digital @ OFPPT**  
+🧠 Apprend tous les jours : Laravel, React, PHP, Git, UI/UX  
+💼 Cherche un **stage** ou missions freelance  
+🎯 Objectif : devenir un développeur **full-stack moderne**
+
+---
+
+## ⚒️ Stack Technique
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,mysql,tailwind,git,github,vscode&perline=7" />
+</p>
+
+---
+
+## 🔥 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=vue-dark&hide_border=true&icon_color=facc15&title_color=facc15&text_color=f3f4f6" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=abdarrhmanessetaoui&theme=vue-dark&hide_border=true&currStreakLabel=facc15&ring=facc15&fire=facc15" width="48%" />
+</p>
+
+---
+
+## 🧪 Projets récents
+
+| Projet | Description |
+|--------|-------------|
+| [`portfolio-site`](https://github.com/abdarrhmanessetaoui/portfolio-site) | Site personnel (React + Tailwind) |
+| [`php-crud-practice`](https://github.com/abdarrhmanessetaoui/php-crud-practice) | Application CRUD (PHP/MySQL) |
+| [`laravel-experiments`](https://github.com/abdarrhmanessetaoui/laravel-experiments) | Auth, Routing, Blade |
+| [`html-css-layouts`](https://github.com/abdarrhmanessetaoui/html-css-layouts) | Intégration UI & layout |
+
+---
+
+## 📞 Me contacter
+
+<p align="center">
+  <a href="mailto:ssetaouiabdarrhmane2004@gmail.com">
+    📧 ssetaouiabdarrhmane2004@gmail.com
+  </a> <br/>
+  <a href="https://www.linkedin.com/in/abderrhman-settaoui-33569b305/">
+    💼 LinkedIn: Abderrhman Settaoui
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&label=Vues+du+profil&color=facc15&style=flat" />
+</p>
