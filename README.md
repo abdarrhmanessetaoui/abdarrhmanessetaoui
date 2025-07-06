@@ -3,66 +3,54 @@
   <img src="https://raw.githubusercontent.com/abdarrhmanessetaoui/abdarrhmanessetaoui/main/banner.png" alt="Abderrhman Settaoui Banner" width="100%" />
 </p>
 
-<!-- Name + Title -->
-<h1 align="center" style="font-weight:700; font-size: 2rem;">Abderrhman Settaoui</h1>
-<p align="center"><strong>Full-Stack Developer — Laravel, React, Node.js</strong></p>
-<p align="center"><strong>OFPPT Student | Based in Marrakech</strong></p>
 
-<!-- Typing Animation -->
+<h1 align="center">Salut 👋, je suis Abderrhman</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Clean+Code+%7C+Modern+UI+%7C+Backend+Logic;PHP+Laravel+MySQL+Node.js+React+Tailwind;Passionate+about+real+projects+%2F+open+to+internships" />
+  💻 Étudiant en Développement Digital @ OFPPT<br/>
+  🚀 Full-stack passionné : PHP | Laravel | React | Node.js<br/>
+  📍 Marrakech, Maroc &nbsp;|&nbsp; 📫 ssetaouiabdarrhmane2004@gmail.com
 </p>
 
 ---
 
-## About
+### 🧠 À propos de moi :
 
-Driven and detail-focused full-stack developer in training.  
-I specialize in building clean, modern, maintainable web apps with Laravel, React, and MySQL.  
-Currently improving my skills in frontend design, backend logic, and real-world development workflows.
-
-- 🎯 Objective: Build and deliver high-quality, real-world applications.
-- 🛠️ Stack: PHP, Laravel, MySQL, React, Tailwind, Node.js, Git
-- 🧠 Constant learner: APIs, clean architecture, UI/UX, performance
+- 🔭 Je travaille actuellement sur des **projets Laravel et React**
+- 🌱 J'apprends chaque jour : **Dev Web, Git, UI/UX, Tailwind**
+- 💬 N’hésite pas à me poser des questions sur **PHP / MySQL / Laravel / React**
+- 📫 Comment me joindre ? Voir en bas 👇
+- 👨‍💻 Portfolio en construction (React + Tailwind)
 
 ---
 
-## Projects
+### 🛠️ Compétences
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| [`portfolio-site`](https://github.com/abdarrhmanessetaoui/portfolio-site) | React + Tailwind | Portfolio for personal branding |
-| [`php-crud-practice`](https://github.com/abdarrhmanessetaoui/php-crud-practice) | PHP + MySQL | Stock management CRUD |
-| [`laravel-experiments`](https://github.com/abdarrhmanessetaoui/laravel-experiments) | Laravel | Routes, Auth, MVC practice |
-| [`html-css-layouts`](https://github.com/abdarrhmanessetaoui/html-css-layouts) | HTML + CSS | UI/UX practice + layout design |
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
-## Tech Stack
+### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,mysql,tailwind,git,github,vscode&perline=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical" alt="github stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=abdarrhmanessetaoui&theme=radical" alt="streak stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---
 
-## GitHub Stats
+### 🔗 Me trouver ailleurs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=calm&hide_border=true&icon_color=facc15&title_color=facc15&text_color=1f2937" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=abdarrhmanessetaoui&theme=calm&hide_border=true&ring=facc15&fire=facc15&currStreakLabel=facc15" width="48%" />
-</p>
-
----
-
-## Contact
-
-<p align="center">
-  <a href="mailto:ssetaouiabdarrhmane2004@gmail.com">ssetaouiabdarrhmane2004@gmail.com</a>  
-  •  
-  <a href="https://www.linkedin.com/in/abderrhman-settaoui-33569b305/">LinkedIn</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&label=Profile+Views&color=facc15&style=flat" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrhman-settaoui-33569b305/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ssetaouiabdarrhmane2004@gmail.com)
