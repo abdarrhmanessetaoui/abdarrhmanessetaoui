@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[![banner](https://github.com/user-attachments/assets/1fa6e63f-3c08-4275-a877-c9d0f848dbcf)](https://github.com/abdarrhmanessetaoui/abdarrhmanessetaoui/blob/main/banner.png?raw=true)
+  <img src="https://raw.githubusercontent.com/abdarrhmanessetaoui/abdarrhmanessetaoui/banner.png
 " alt="Banner" />
 </p>
 <h1 align="center" style="color:#facc15">Bienvenue sur mon GitHub</h1>
