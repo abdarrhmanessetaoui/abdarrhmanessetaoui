@@ -1,7 +1,7 @@
-# 👋 Salut, je suis Abderrhman Settaoui
+# Salut, je suis Abderrhman Settaoui
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Développeur+Full-Stack+en+formation;Étudiant+%40+OFPPT+Casablanca;Passionné+par+les+technologies+modernes;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Développeur+Full-Stack+en+formation;Étudiant+%40+OFPPT+Casablanca;Passionné+par+les+technologies+modernes;Toujours+en+train+d'apprendre" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -18,19 +18,18 @@
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 Je suis un développeur full-stack passionné, actuellement étudiant en **Développement Digital à l'OFPPT**. J'adore créer des applications web modernes et apprendre de nouvelles technologies chaque jour.
 
-- 🔭 Actuellement en formation sur **Laravel** et **React**
-- 🌱 J'apprends constamment : **PHP**, **JavaScript**, **Node.js**
-- 💼 Ouvert aux opportunités de **stage** et **missions freelance**
-- 🎯 Objectif : devenir un développeur full-stack expert
-- 📍 Basé à **Casablanca, Maroc**
+- Actuellement en formation sur **Laravel** et **React**
+- J'apprends constamment : **PHP**, **JavaScript**, **Node.js**
+- Ouvert aux opportunités de **stage** et **missions freelance**
+- Objectif : devenir un développeur full-stack expert
 
 ---
 
-## 🛠️ Technologies & Outils
+## Technologies & Outils
 
 ### Frontend
 <p>
@@ -49,7 +48,7 @@ Je suis un développeur full-stack passionné, actuellement étudiant en **Déve
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9" width="48%" />
@@ -62,7 +61,7 @@ Je suis un développeur full-stack passionné, actuellement étudiant en **Déve
 
 ---
 
-## 🎯 Projets en vedette
+## Projets en vedette
 
 <table>
   <tr>
@@ -113,7 +112,7 @@ Je suis un développeur full-stack passionné, actuellement étudiant en **Déve
 
 ---
 
-## 📈 Activité de développement
+## Activité de développement
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=react-dark&bg_color=0D1117&color=FACC15&line=FACC15&point=FACC15&area=true&hide_border=true" width="100%" />
@@ -121,10 +120,10 @@ Je suis un développeur full-stack passionné, actuellement étudiant en **Déve
 
 ---
 
-## 🎓 Formation & Compétences
+## Formation & Compétences
 
-**🏫 Formation actuelle :** Développement Digital - OFPPT Casablanca  
-**📅 Période :** 2023 - 2025
+**Formation actuelle :** Développement Digital - OFPPT  
+**Période :** 2023 - 2025
 
 ### Compétences techniques
 - **Frontend :** HTML5, CSS3, JavaScript ES6+, React, Tailwind CSS
@@ -134,26 +133,26 @@ Je suis un développeur full-stack passionné, actuellement étudiant en **Déve
 - **Méthodologies :** Agile, MVC, Responsive Design
 
 ### Langues
-- 🇫🇷 **Français :** Courant
-- 🇦🇷 **Arabe :** Langue maternelle
-- 🇬🇧 **Anglais :** Intermédiaire
+- **Français :** Courant
+- **Arabe :** Langue maternelle
+- **Anglais :** Intermédiaire
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 
 Je suis toujours ouvert aux collaborations et aux nouveaux projets ! Si vous avez une idée intéressante ou si vous cherchez quelqu'un pour :
 
-- ✅ Développer une application web
-- ✅ Créer un site vitrine moderne
-- ✅ Intégrer des maquettes UI/UX
-- ✅ Contribuer à un projet open source
+- Développer une application web
+- Créer un site vitrine moderne
+- Intégrer des maquettes UI/UX
+- Contribuer à un projet open source
 
 N'hésitez pas à me contacter !
 
 ---
 
-## 📞 Me contacter
+## Me contacter
 
 <p align="center">
   <a href="mailto:ssetaouiabdarrhmane2004@gmail.com">
@@ -175,5 +174,5 @@ N'hésitez pas à me contacter !
 </p>
 
 <p align="center">
-  <i>⭐ N'hésitez pas à star mes repos si vous les trouvez utiles !</i>
+  <i>N'hésitez pas à star mes repos si vous les trouvez utiles !</i>
 </p>
