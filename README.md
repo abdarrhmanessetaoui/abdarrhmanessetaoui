@@ -50,7 +50,9 @@
 <a href="https://github.com/abdarrhmanessetaoui/php-crud-practice">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=php-crud-practice&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
 </a>
-
+<a href="https://github.com/abdarrhmanessetaoui/html-css-layouts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=html-css-layouts&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+</a>
 </div>
 
 ---
