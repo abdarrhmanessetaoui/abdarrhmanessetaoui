@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdarrhmanessetaoui/abdarrhmanessetaoui/banner.png
-" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/abdarrhmanessetaoui/abdarrhmanessetaoui/main/banner.png" alt="Banner" />
 </p>
+
 <h1 align="center" style="color:#facc15">Bienvenue sur mon GitHub</h1>
 
 <p align="center" style="color:#e5e7eb">
