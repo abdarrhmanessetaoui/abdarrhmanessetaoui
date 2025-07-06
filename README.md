@@ -1,7 +1,7 @@
 # Salut, je suis Abderrhman Settaoui
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Développeur+Full-Stack+en+formation;Étudiant+%40+OFPPT+Casablanca;Passionné+par+les+technologies+modernes;Toujours+en+train+d'apprendre" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Développeur+Full-Stack+en+formation;Étudiant+%40+OFPPT+NTIC+SYBA+Marrakech;Passionné+par+les+technologies+modernes;Toujours+en+train+d'apprendre" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ Je suis un développeur full-stack passionné, actuellement étudiant en **Déve
 ## Formation & Compétences
 
 **Formation actuelle :** Développement Digital - OFPPT  
-**Période :** 2023 - 2025
+**Période :** 2024 - 2026
 
 ### Compétences techniques
 - **Frontend :** HTML5, CSS3, JavaScript ES6+, React, Tailwind CSS
