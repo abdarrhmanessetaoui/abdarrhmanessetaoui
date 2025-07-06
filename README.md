@@ -1,32 +1,27 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdarrhmanessetaoui/abdarrhmanessetaoui/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/abdarrhmanessetaoui/abdarrhmanessetaoui/main/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B+je+suis+Abderrhman+Settaoui;Développeur+Full-stack+en+formation+@OFPPT;PHP+%7C+Laravel+%7C+React+%7C+Node.js;Passionné+par+le+Web+moderne" alt="Typing animation" />
-</h1>
+<h1 align="center">Abderrhman Settaoui</h1>
+<h3 align="center">Full-Stack Web Developer | OFPPT Student | Open to internships</h3>
 
 <p align="center">
-  <a href="mailto:ssetaouiabdarrhmane2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-facc15?style=for-the-badge&logo=gmail&logoColor=111827&labelColor=f3f4f6" />
-  </a>
-  <a href="https://www.linkedin.com/in/abderrhman-settaoui-33569b305/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Node.js+%7C+PHP;Based+in+Marrakech;Clean+Code+%7C+Modern+UI+%7C+Open+Minded" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 À propos de moi
+## About Me
 
-🎓 Étudiant en **Développement Digital @ OFPPT**  
-🧠 Apprend tous les jours : Laravel, React, PHP, Git, UI/UX  
-💼 Cherche un **stage** ou missions freelance  
-🎯 Objectif : devenir un développeur **full-stack moderne**
+- 🧑‍🎓 Currently studying **Web Development** at OFPPT
+- ⚙️ Focused on **Laravel**, **React**, **Tailwind**, and **Node.js**
+- 🌐 Passionate about **modern UI/UX** and clean architecture
+- 🎯 Looking for **internships** and real-world web projects
+- 📚 Always learning: APIs, Git workflows, best dev practices
 
 ---
 
-## ⚒️ Stack Technique
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,mysql,tailwind,git,github,vscode&perline=7" />
@@ -34,39 +29,34 @@
 
 ---
 
-## 🔥 Statistiques GitHub
+## Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| [`portfolio-site`](https://github.com/abdarrhmanessetaoui/portfolio-site) | React, Tailwind | Personal portfolio UI |
+| [`php-crud-practice`](https://github.com/abdarrhmanessetaoui/php-crud-practice) | PHP, MySQL | Simple stock management |
+| [`laravel-experiments`](https://github.com/abdarrhmanessetaoui/laravel-experiments) | Laravel | Auth, Blade, Routes |
+| [`html-css-layouts`](https://github.com/abdarrhmanessetaoui/html-css-layouts) | HTML/CSS | Responsive UI layouts |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=vue-dark&hide_border=true&icon_color=facc15&title_color=facc15&text_color=f3f4f6" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=abdarrhmanessetaoui&theme=vue-dark&hide_border=true&currStreakLabel=facc15&ring=facc15&fire=facc15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=transparent&hide_title=true&hide_border=true&icon_color=facc15&text_color=1f2937" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=abdarrhmanessetaoui&theme=transparent&hide_border=true&ring=facc15&fire=facc15&currStreakLabel=facc15" width="48%" />
 </p>
 
 ---
 
-## 🧪 Projets récents
-
-| Projet | Description |
-|--------|-------------|
-| [`portfolio-site`](https://github.com/abdarrhmanessetaoui/portfolio-site) | Site personnel (React + Tailwind) |
-| [`php-crud-practice`](https://github.com/abdarrhmanessetaoui/php-crud-practice) | Application CRUD (PHP/MySQL) |
-| [`laravel-experiments`](https://github.com/abdarrhmanessetaoui/laravel-experiments) | Auth, Routing, Blade |
-| [`html-css-layouts`](https://github.com/abdarrhmanessetaoui/html-css-layouts) | Intégration UI & layout |
-
----
-
-## 📞 Me contacter
+## Contact
 
 <p align="center">
-  <a href="mailto:ssetaouiabdarrhmane2004@gmail.com">
-    📧 ssetaouiabdarrhmane2004@gmail.com
-  </a> <br/>
-  <a href="https://www.linkedin.com/in/abderrhman-settaoui-33569b305/">
-    💼 LinkedIn: Abderrhman Settaoui
-  </a>
+  <a href="mailto:ssetaouiabdarrhmane2004@gmail.com">ssetaouiabdarrhmane2004@gmail.com</a>  
+  •  
+  <a href="https://www.linkedin.com/in/abderrhman-settaoui-33569b305/">LinkedIn Profile</a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&label=Vues+du+profil&color=facc15&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&label=Profile+Views&color=facc15&style=flat" />
 </p>
