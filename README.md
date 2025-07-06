@@ -1,21 +1,18 @@
 <div align="center">
   
-  <!-- Clean Professional Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abderrhman%20Settaoui&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=180&section=header&text=Abderrhman%20Settaoui&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
-  <!-- Professional Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;OFPPT+Digital+Development+Student;PHP+%7C+Laravel+%7C+React+%7C+Node.js;Building+Modern+Web+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=1DA1F2&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;OFPPT+Digital+Development+Student;PHP+Laravel+React+Node.js;Building+Modern+Web+Applications" alt="Typing Animation" />
   
-  <!-- Clean Social Links -->
   <div style="margin: 30px 0;">
     <a href="mailto:ssetaouiabdarrhmane2004@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/abderrhman-settaoui-33569b305/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/abdarrhmanessetaoui">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-1DA1F2?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </div>
   
@@ -29,10 +26,10 @@
   
 </div>
 
-<table align="center" style="border: none;">
+<table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
     </td>
     <td align="left" width="50%">
       
@@ -41,7 +38,7 @@
 **Learning:** Laravel, React, PHP, Modern JavaScript  
 **Interests:** Clean Code, UI/UX, API Development  
 **Location:** Morocco  
-**Status:** Open for Internships & Freelance Projects  
+**Status:** Open for Internships and Freelance Projects  
       
     </td>
   </tr>
@@ -65,7 +62,7 @@
   
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb&theme=dark" />
   
-  **Tools & Workflow**
+  **Tools and Workflow**
   
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
   
@@ -81,15 +78,15 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=github_dark&hide_border=true&icon_color=2563EB&title_color=2563EB&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=abdarrhmanessetaoui&theme=github-dark-blue&hide_border=true&currStreakLabel=2563EB&ring=2563EB&fire=2563EB" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=dark&hide_border=true&icon_color=1DA1F2&title_color=1DA1F2&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=abdarrhmanessetaoui&theme=dark&hide_border=true&currStreakLabel=1DA1F2&ring=1DA1F2&fire=1DA1F2&background=0d1117" width="48%" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=github_dark&hide_border=true&title_color=2563EB&text_color=ffffff&bg_color=0d1117&langs_count=8" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=github-compact&hide_border=true&area=true&area_color=2563EB&point=ffffff&line=2563EB" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=dark&hide_border=true&title_color=1DA1F2&text_color=ffffff&bg_color=0d1117&langs_count=8" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=github-compact&hide_border=true&area=true&area_color=1DA1F2&point=ffffff&line=1DA1F2&bg_color=0d1117" width="48%" />
   
 </div>
 
@@ -104,10 +101,10 @@
 <div align="center">
   
   <a href="https://github.com/abdarrhmanessetaoui/portfolio-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=portfolio-site&theme=github_dark&hide_border=true&title_color=2563EB&text_color=ffffff&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=portfolio-site&theme=dark&hide_border=true&title_color=1DA1F2&text_color=ffffff&bg_color=0d1117" />
   </a>
   <a href="https://github.com/abdarrhmanessetaoui/php-crud-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=php-crud-practice&theme=github_dark&hide_border=true&title_color=2563EB&text_color=ffffff&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=php-crud-practice&theme=dark&hide_border=true&title_color=1DA1F2&text_color=ffffff&bg_color=0d1117" />
   </a>
   
 </div>
@@ -115,10 +112,10 @@
 <div align="center">
   
   <a href="https://github.com/abdarrhmanessetaoui/laravel-experiments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=laravel-experiments&theme=github_dark&hide_border=true&title_color=2563EB&text_color=ffffff&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=laravel-experiments&theme=dark&hide_border=true&title_color=1DA1F2&text_color=ffffff&bg_color=0d1117" />
   </a>
   <a href="https://github.com/abdarrhmanessetaoui/html-css-layouts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=html-css-layouts&theme=github_dark&hide_border=true&title_color=2563EB&text_color=ffffff&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=html-css-layouts&theme=dark&hide_border=true&title_color=1DA1F2&text_color=ffffff&bg_color=0d1117" />
   </a>
   
 </div>
@@ -147,7 +144,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdarrhmanessetaoui&theme=dark&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=2563EB&sideLabels=ffffff&dates=ffffff" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdarrhmanessetaoui&theme=dark&hide_border=true&background=0D1117&stroke=1DA1F2&ring=1DA1F2&fire=1DA1F2&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=1DA1F2&sideLabels=ffffff&dates=ffffff" width="90%" />
   
 </div>
 
@@ -165,12 +162,12 @@
     <tr>
       <td align="center">
         <a href="mailto:ssetaouiabdarrhmane2004@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/abderrhman-settaoui-33569b305/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -190,9 +187,9 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&label=Profile+Views&color=2563EB&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/abdarrhmanessetaoui?label=Followers&style=for-the-badge&color=2563EB" />
-  <img src="https://img.shields.io/github/stars/abdarrhmanessetaoui?label=Total+Stars&style=for-the-badge&color=2563EB" />
+  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&label=Profile+Views&color=1DA1F2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/abdarrhmanessetaoui?label=Followers&style=for-the-badge&color=1DA1F2" />
+  <img src="https://img.shields.io/github/stars/abdarrhmanessetaoui?label=Total+Stars&style=for-the-badge&color=1DA1F2" />
   
 </div>
 
@@ -200,7 +197,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=footer&animation=fadeIn" width="100%"/>
   
   **Made with precision and attention to detail**
   
