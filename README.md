@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="![banner](https://github.com/user-attachments/assets/1fa6e63f-3c08-4275-a877-c9d0f848dbcf)
+" alt="Banner" />
+</p>
 <h1 align="center" style="color:#facc15">Bienvenue sur mon GitHub</h1>
 
 <p align="center" style="color:#e5e7eb">
