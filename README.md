@@ -21,31 +21,27 @@
 
 
 
-## <span style="color:#00D9FF; font-weight:bold">À propos de moi</span>
+> Je suis un **développeur full-stack** actuellement en formation à l’**OFPPT (2024–2026)**.  
+> Je conçois des applications web modernes, bien architecturées, centrées sur l’expérience utilisateur et la performance.  
+> Je vise l'excellence technique tout en gardant une forte sensibilité produit.
 
-<div align="left">
+---
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/75551341/213878506-7a8c60f3-8931-4c0e-9626-0ff06c1e8b52.png" alt="Développeur full-stack" />
+### 🔧 Compétences actuelles
+- Laravel · React · PHP · JavaScript · Node.js · MySQL
+- Git · GitHub · API REST · MVC · Responsive Design
 
-<div style="margin-right:420px">
-  
-<p style="font-size:16px; color:#c9d1d9; line-height:1.6;">
-Je suis un <strong style="color:#00D9FF;">développeur full-stack</strong> en formation à l'<strong>OFPPT</strong>, passionné par le développement web et la création de solutions performantes.<br>
-Je m'engage à produire du code <strong>propre</strong>, <strong>maintenable</strong> et <strong>orienté utilisateur</strong>.
-</p>
+---
 
-<p style="font-size:16px; color:#c9d1d9;">
-🧠 <strong style="color:#00D9FF;">Compétences actuelles :</strong> Laravel, React, PHP, JavaScript, Node.js, MySQL  
-🎯 <strong style="color:#00D9FF;">Objectif :</strong> devenir un développeur full-stack professionnel, capable de gérer des projets de A à Z  
-📚 <strong style="color:#00D9FF;">Formation :</strong> Développement Digital – OFPPT (2024–2026)  
-📬 <strong style="color:#00D9FF;">Email :</strong> ssetaouiabdarrhmane2004@gmail.com  
-📍 <strong style="color:#00D9FF;">Localisation :</strong> Marrakech, Maroc
-</p>
+### 📍 Informations
+- 📫 **Email** : ssetaouiabdarrhmane2004@gmail.com  
+- 🌍 **Ville** : Marrakech, Maroc  
+- 📚 **Formation** : Développement Digital – OFPPT
 
-</div>
+---
 
-</div>
-
+### 💼 Objectif professionnel
+> Devenir un développeur full-stack confirmé capable de gérer un projet de A à Z (analyse, conception, développement, déploiement).
 
 ---
 
