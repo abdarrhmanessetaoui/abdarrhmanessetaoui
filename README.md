@@ -7,10 +7,12 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&color=FFD700&label=Visiteurs+du+profil&labelColor=000000&style=flat-square">
-  <img src="https://img.shields.io/github/followers/abdarrhmanessetaoui?color=FFD700&labelColor=000000&logo=github&logoColor=000000&style=flat-square&label=Followers">
-  <img src="https://img.shields.io/github/stars/abdarrhmanessetaoui?color=FFD700&labelColor=000000&logo=github&logoColor=000000&style=flat-square&label=Stars">
+  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&color=FFD700&style=flat-square&label=Visiteurs+du+profil">
+
+  <img src="https://img.shields.io/github/followers/abdarrhmanessetaoui?color=FFD700&style=flat-square&logo=github&label=Followers">
+  <img src="https://img.shields.io/github/stars/abdarrhmanessetaoui?color=FFD700&style=flat-square&logo=github&label=Stars">
 </div>
+
 
 
 
