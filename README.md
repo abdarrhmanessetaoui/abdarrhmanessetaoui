@@ -31,7 +31,7 @@
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌 Présentation-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+  <img src="https://img.shields.io/badge/📌 Présentation-FFD700?style=for-the-badge&labelColor=FFD700&color=black" />
 </p>
 
 <p align="left">
@@ -42,7 +42,7 @@
 <br />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌 Technologies_principales-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+  <img src="https://img.shields.io/badge/📌 Technologies_principales-FFD700?style=for-the-badge&labelColor=FFD700&color=black" />
 </p>
 
 <p><strong>Laravel</strong>, <strong>React</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>MySQL</strong></p>
@@ -50,7 +50,7 @@
 <br />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌 Objectif_professionnel-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+  <img src="https://img.shields.io/badge/📌 Objectif_professionnel-FFD700?style=for-the-badge&labelColor=FFD700&color=black" />
 </p>
 
 <p>Devenir un développeur full-stack capable de mener un projet de bout en bout.</p>
@@ -58,7 +58,7 @@
 <br />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌 Formation-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+  <img src="https://img.shields.io/badge/📌 Formation-FFD700?style=for-the-badge&labelColor=FFD700&color=black" />
 </p>
 
 <p><strong>Développement Digital – OFPPT (2024–2026)</strong></p>
@@ -66,7 +66,7 @@
 <br />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌 Localisation-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+  <img src="https://img.shields.io/badge/📌 Localisation-FFD700?style=for-the-badge&labelColor=FFD700&color=black" />
 </p>
 
 <p>Marrakech, Maroc</p>
@@ -74,7 +74,7 @@
 <br />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌 Contact-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+  <img src="https://img.shields.io/badge/📌 Contact-FFD700?style=for-the-badge&labelColor=FFD700&color=black" />
 </p>
 
 <p><strong>ssetaouiabdarrhmane2004@gmail.com</strong></p>
