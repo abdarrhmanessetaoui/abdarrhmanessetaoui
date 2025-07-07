@@ -31,49 +31,46 @@
 
 
 <!-- Présentation -->
-<p align="left">
-  <img src="https://img.shields.io/badge/📌%20Présentation-Full%20Stack%20Developer-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
-</p>
 
 <p align="left">
-  Je suis un <strong>développeur full-stack</strong> passionné, actuellement étudiant en <strong>Développement Digital</strong> à l’OFPPT (2024–2026).  
+  <span style="color:#FFD700; font-weight:bold;">📌 Présentation</span><br/>
+  Je suis un <strong style="color:#FFD700;">développeur full-stack</strong> passionné, actuellement étudiant en <strong style="color:#FFD700;">Développement Digital</strong> à l’OFPPT (2024–2026).  
   Je me spécialise dans la création d'applications web modernes, performantes et bien structurées, en suivant les bonnes pratiques de développement.
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/📌%20Technologies-Laravel,%20React,%20Node,%20PHP,%20MySQL-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
-</p>
+<br/>
 
 <p align="left">
-  <strong>Laravel</strong>, <strong>React</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>MySQL</strong>
+  <span style="color:#FFD700; font-weight:bold;">📌 Technologies principales :</span><br/>
+  Laravel, React, PHP, JavaScript, Node.js, MySQL
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/📌%20Objectif-Devenir%20Full%20Stack%20Pro-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
-</p>
+<br/>
 
 <p align="left">
+  <span style="color:#FFD700; font-weight:bold;">📌 Objectif professionnel :</span><br/>
   Devenir un développeur full-stack capable de mener un projet de bout en bout.
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/📌%20Formation-OFPPT%202024--2026-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
-</p>
+<br/>
 
 <p align="left">
+  <span style="color:#FFD700; font-weight:bold;">📌 Formation :</span><br/>
   Développement Digital – OFPPT (2024–2026)
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/📌%20Localisation-Marrakech,%20Maroc-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
-</p>
+<br/>
 
 <p align="left">
+  <span style="color:#FFD700; font-weight:bold;">📌 Localisation :</span><br/>
   Marrakech, Maroc
 </p>
 
+<br/>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Contact-ssetaouiabdarrhmane2004@gmail.com-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <span style="color:#FFD700; font-weight:bold;">📌 Contact :</span><br/>
+  ssetaouiabdarrhmane2004@gmail.com
 </p>
 
 
