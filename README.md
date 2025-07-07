@@ -18,7 +18,8 @@
 
 ## À propos de moi
 
-<img align="right" alt="Développement web" width="400" src="https://raw.githubusercontent.com/abderrhmane-dev/assets/main/coding-clean.png">
+<img align="right" alt="Illustration développeur web" width="400" src="https://user-images.githubusercontent.com/74038190/212557187-1b304fd2-2edc-4f17-8f3c-c2287d6b4b56.png">
+
 
 
 
