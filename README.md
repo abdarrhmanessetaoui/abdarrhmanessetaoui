@@ -35,47 +35,52 @@
 
 <!-- Présentation -->
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=📌%20PRÉSENTATION&message=FULL%20STACK%20DEVELOPER&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
+  <img src="https://img.shields.io/badge/📌_PRÉSENTATION-FULL_STACK_DEVELOPER-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
   Je suis un <strong>développeur full-stack</strong> passionné, actuellement étudiant en <strong>Développement Digital</strong> à l'OFPPT (2024–2026). Je me spécialise dans la création d'applications web modernes, performantes et bien structurées, en suivant les bonnes pratiques de développement.
 </p>
 
+<!-- Technologies -->
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=📌%20TECHNOLOGIES&message=LARAVEL,%20REACT,%20NODE,%20PHP,%20MYSQL&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
+  <img src="https://img.shields.io/badge/📌_TECHNOLOGIES-LARAVEL,_REACT,_NODE,_PHP,_MYSQL-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
   <strong>Laravel</strong>, <strong>React</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>MySQL</strong>
 </p>
 
+<!-- Objectif -->
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=📌%20OBJECTIF&message=DEVENIR%20FULL%20STACK%20PRO&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
+  <img src="https://img.shields.io/badge/📌_OBJECTIF-DEVENIR_FULL_STACK_PRO-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
   Devenir un développeur full-stack capable de mener un projet de bout en bout.
 </p>
 
+<!-- Formation -->
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=📌%20FORMATION&message=OFPPT%202024-2026&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
+  <img src="https://img.shields.io/badge/📌_FORMATION-OFPPT_2024--2026-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
   Développement Digital – OFPPT (2024–2026)
 </p>
 
+<!-- Localisation -->
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=📌%20LOCALISATION&message=MARRAKECH,%20MAROC&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
+  <img src="https://img.shields.io/badge/📌_LOCALISATION-MARRAKECH,_MAROC-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
   Marrakech, Maroc
 </p>
 
+<!-- Contact -->
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=📌%20CONTACT&message=SSETAOUIABDARRHMANE2004@GMAIL.COM&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
+  <img src="https://img.shields.io/badge/📌_CONTACT-SSETAOUIABDARRHMANE2004@GMAIL.COM-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
