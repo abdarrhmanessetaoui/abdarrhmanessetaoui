@@ -27,7 +27,7 @@ Je suis un développeur full-stack passionné, actuellement étudiant en **Déve
 - J'apprends constamment : **PHP**, **JavaScript**, **Node.js**
 - Ouvert aux opportunités de **stage** et **missions freelance**
 - Objectif : devenir un développeur full-stack expert
-- Comment me contacter : **abderrhman.settaoui@example.com**
+- Comment me contacter : **ssetaouiabdarrhmane2004@gmail.com**
 - Fun fact : J'aime résoudre des problèmes complexes avec du code élégant
 
 ---
