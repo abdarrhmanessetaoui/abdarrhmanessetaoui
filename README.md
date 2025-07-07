@@ -26,7 +26,7 @@
 
 ---
 
-<h2 align="left"><strong style="color:#00D9FF">À propos de moi</strong></h2>
+
 
 <p align="left">
 Je suis un <strong>développeur full-stack</strong> passionné, actuellement étudiant en <strong>Développement Digital</strong> à l’OFPPT (2024–2026).  
