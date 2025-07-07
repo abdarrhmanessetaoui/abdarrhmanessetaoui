@@ -31,9 +31,11 @@
 
 
 
+# README Profile
+
 <!-- Présentation -->
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Présentation-Full%20Stack%20Developer-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
+  <img src="https://img.shields.io/static/v1?label=📌%20PRÉSENTATION&message=FULL%20STACK%20DEVELOPER&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
 </p>
 
 <p align="left">
@@ -41,7 +43,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Technologies-Laravel,%20React,%20Node,%20PHP,%20MySQL-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
+  <img src="https://img.shields.io/static/v1?label=📌%20TECHNOLOGIES&message=LARAVEL,%20REACT,%20NODE,%20PHP,%20MYSQL&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
 </p>
 
 <p align="left">
@@ -49,7 +51,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Objectif-Devenir%20Full%20Stack%20Pro-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
+  <img src="https://img.shields.io/static/v1?label=📌%20OBJECTIF&message=DEVENIR%20FULL%20STACK%20PRO&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
 </p>
 
 <p align="left">
@@ -57,7 +59,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Formation-OFPPT%202024--2026-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
+  <img src="https://img.shields.io/static/v1?label=📌%20FORMATION&message=OFPPT%202024-2026&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
 </p>
 
 <p align="left">
@@ -65,7 +67,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Localisation-Marrakech,%20Maroc-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
+  <img src="https://img.shields.io/static/v1?label=📌%20LOCALISATION&message=MARRAKECH,%20MAROC&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
 </p>
 
 <p align="left">
@@ -73,13 +75,12 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Contact-ssetaouiabdarrhmane2004@gmail.com-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
+  <img src="https://img.shields.io/static/v1?label=📌%20CONTACT&message=SSETAOUIABDARRHMANE2004@GMAIL.COM&color=FFD700&style=for-the-badge&labelColor=000000" width="500" height="35" />
 </p>
 
 <p align="left">
   Email: ssetaouiabdarrhmane2004@gmail.com
 </p>
-
 
 ## Technologies & Outils
 
