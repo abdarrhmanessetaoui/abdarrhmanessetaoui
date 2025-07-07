@@ -30,10 +30,6 @@
 
 
 
-# README Profile
-
-# README Profile
-# README Profile
 
 <!-- Présentation -->
 <p align="left">
