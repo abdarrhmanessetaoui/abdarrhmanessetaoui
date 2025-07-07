@@ -21,9 +21,7 @@
 
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Développeur+Full-Stack+en+formation;Laravel+%2B+React+%7C+PHP+%2F+Node.js;Toujours+en+apprentissage+et+en+progrès" alt="Typing Animation" />
-</div>
+
 
 ---
 
