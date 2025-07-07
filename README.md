@@ -21,29 +21,43 @@
 
 
 
-> Je suis un **développeur full-stack** actuellement en formation à l’**OFPPT (2024–2026)**.  
-> Je conçois des applications web modernes, bien architecturées, centrées sur l’expérience utilisateur et la performance.  
-> Je vise l'excellence technique tout en gardant une forte sensibilité produit.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Développeur+Full-Stack+en+formation;Laravel+%2B+React+%7C+PHP+%2F+Node.js;Toujours+en+apprentissage+et+en+progrès" alt="Typing Animation" />
+</div>
 
 ---
 
-### 🔧 Compétences actuelles
-- Laravel · React · PHP · JavaScript · Node.js · MySQL
-- Git · GitHub · API REST · MVC · Responsive Design
+<h2 align="left"><strong style="color:#00D9FF">À propos de moi</strong></h2>
 
----
+<p align="left">
+Je suis un <strong>développeur full-stack</strong> passionné, actuellement étudiant en <strong>Développement Digital</strong> à l’OFPPT (2024–2026).  
+Je me spécialise dans la création d'applications web modernes, performantes et bien structurées, en suivant les bonnes pratiques de développement.
+</p>
 
-### 📍 Informations
-- 📫 **Email** : ssetaouiabdarrhmane2004@gmail.com  
-- 🌍 **Ville** : Marrakech, Maroc  
-- 📚 **Formation** : Développement Digital – OFPPT
+<br />
 
----
-
-### 💼 Objectif professionnel
-> Devenir un développeur full-stack confirmé capable de gérer un projet de A à Z (analyse, conception, développement, déploiement).
-
----
+<table>
+  <tr>
+    <td><strong style="color:#00D9FF">📌 Technologies principales :</strong></td>
+    <td>Laravel, React, PHP, JavaScript, Node.js, MySQL</td>
+  </tr>
+  <tr>
+    <td><strong style="color:#00D9FF">📌 Objectif professionnel :</strong></td>
+    <td>Devenir un développeur full-stack capable de mener un projet de bout en bout.</td>
+  </tr>
+  <tr>
+    <td><strong style="color:#00D9FF">📌 Formation :</strong></td>
+    <td>Développement Digital – OFPPT (2024–2026)</td>
+  </tr>
+  <tr>
+    <td><strong style="color:#00D9FF">📌 Localisation :</strong></td>
+    <td>Marrakech, Maroc</td>
+  </tr>
+  <tr>
+    <td><strong style="color:#00D9FF">📌 Contact :</strong></td>
+    <td>ssetaouiabdarrhmane2004@gmail.com</td>
+  </tr>
+</table>
 
 ## Technologies & Outils
 
