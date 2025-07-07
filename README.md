@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/abdarrhmanessetaoui/blob/main/banner.png" width="30px" height="30px"> Salut, je suis Abderrhman Settaoui
+# <img src="https://raw.githubusercontent.com/abdarrhmanessetaoui/blob/main/banner.png" width="30px" height="30px"> Salut, je suis Abderrhman Settaoui
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;%C3%89tudiant+%C3%A0+l'OFPPT;Passionn%C3%A9+par+le+Web;Toujours+en+train+d'apprendre" alt="Typing SVG">
