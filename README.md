@@ -18,7 +18,7 @@
 
 ## À propos de moi
 
-<img align="right" alt="Illustration développeur web" width="400" src="https://user-images.githubusercontent.com/74038190/212557187-1b304fd2-2edc-4f17-8f3c-c2287d6b4b56.png">
+<img align="right" alt="Étudiant développeur" width="400" src="https://user-images.githubusercontent.com/72297257/228212264-5f5c25e6-65e5-4fc7-9abf-0b01ba3e5cf1.png">
 
 
 
