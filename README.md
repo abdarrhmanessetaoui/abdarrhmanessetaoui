@@ -41,30 +41,36 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌 Technologies_Laravel_React_JS_Node_PHP_MySQL-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <img src="https://img.shields.io/badge/📌 Technologies-Laravel_React_JS_Node_PHP_MySQL-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
-<p>
-<strong>Laravel</strong>, <strong>React</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>MySQL</strong>
+<p align="left">
+  <strong>Laravel</strong>, <strong>React</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>MySQL</strong>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/📌 Objectif-Devenir%20Full%20Stack%20Pro-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
-<p>Devenir un développeur full-stack capable de mener un projet de bout en bout.</p>
+<p align="left">
+  Devenir un développeur full-stack capable de mener un projet de bout en bout.
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/📌 Formation-OFPPT%202024--2026-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
-<p>Développement Digital – OFPPT (2024–2026)</p>
+<p align="left">
+  Développement Digital – OFPPT (2024–2026)
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/📌 Localisation-Marrakech%2C%20Maroc-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
-<p>Marrakech, Maroc</p>
+<p align="left">
+  Marrakech, Maroc
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/📌 Contact-ssetaouiabdarrhmane2004@gmail.com-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
