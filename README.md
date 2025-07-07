@@ -17,9 +17,9 @@
 ---
 
 ## À propos de moi
-
-<img align="right" alt="Étudiant développeur" width="400" src="https://user-images.githubusercontent.com/72297257/228212264-5f5c25e6-65e5-4fc7-9abf-0b01ba3e5cf1.png">
-
+<p align="center">
+  <img src="banner.png" alt="Banner Abderrhmane Ssetaoui" style="width:100%; max-height:300px; object-fit:cover;">
+</p>
 
 
 
