@@ -32,7 +32,7 @@
 
 <!-- Présentation -->
 <p align="left">
-  <img src="https://img.shields.io/badge/📌_Présentation_-_Full--Stack_Developer_-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <img src="https://img.shields.io/badge/📌%20Présentation-Full%20Stack%20Developer-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
 <p align="left">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌_Technologies_-_Laravel_React_JS_Node_PHP_MySQL_-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <img src="https://img.shields.io/badge/📌%20Technologies-Laravel,%20React,%20Node,%20PHP,%20MySQL-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
 <p align="left">
@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌_Objectif_-_Full--Stack_Pro_Visé_-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <img src="https://img.shields.io/badge/📌%20Objectif-Devenir%20Full%20Stack%20Pro-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
 <p align="left">
@@ -57,7 +57,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌_Formation_-_OFPPT_2024--2026_-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <img src="https://img.shields.io/badge/📌%20Formation-OFPPT%202024--2026-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
 <p align="left">
@@ -65,7 +65,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌_Localisation_-_Marrakech,_Maroc_-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <img src="https://img.shields.io/badge/📌%20Localisation-Marrakech,%20Maroc-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
 <p align="left">
@@ -73,7 +73,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌_Contact_-_ssetaouiabdarrhmane2004@gmail.com_-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <img src="https://img.shields.io/badge/📌%20Contact-ssetaouiabdarrhmane2004@gmail.com-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
 
