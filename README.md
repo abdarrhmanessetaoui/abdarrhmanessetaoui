@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Banner Abderrhmane Ssetaoui" style="width:100%; max-height:300px; object-fit:cover;">
-</p>
+
 
 # Salut, je suis Abderrhmane Ssetaoui
 
