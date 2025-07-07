@@ -31,34 +31,54 @@
 
 
 <p align="left">
-  Je suis un <strong style="color:#FFD700;">développeur full-stack</strong> passionné, actuellement étudiant en <strong style="color:#FFD700;">Développement Digital</strong> à l’OFPPT (2024–2026).  
+  <img src="https://img.shields.io/badge/📌 Présentation-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+</p>
+
+<p align="left">
+  Je suis un <strong>développeur full-stack</strong> passionné, actuellement étudiant en <strong>Développement Digital</strong> à l’OFPPT (2024–2026).  
   Je me spécialise dans la création d'applications web modernes, performantes et bien structurées, en suivant les bonnes pratiques de développement.
 </p>
 
 <br />
 
-<table>
-  <tr>
-    <td width="250" bgcolor="#FFD700"><strong>📌 Technologies principales</strong></td>
-    <td>Laravel, React, PHP, JavaScript, Node.js, MySQL</td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFD700"><strong>📌 Objectif professionnel</strong></td>
-    <td>Devenir un développeur full-stack capable de mener un projet de bout en bout.</td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFD700"><strong>📌 Formation</strong></td>
-    <td>Développement Digital – OFPPT (2024–2026)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFD700"><strong>📌 Localisation</strong></td>
-    <td>Marrakech, Maroc</td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFD700"><strong>📌 Contact</strong></td>
-    <td>ssetaouiabdarrhmane2004@gmail.com</td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/📌 Technologies_principales-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+</p>
+
+<p><strong>Laravel</strong>, <strong>React</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>MySQL</strong></p>
+
+<br />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📌 Objectif_professionnel-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+</p>
+
+<p>Devenir un développeur full-stack capable de mener un projet de bout en bout.</p>
+
+<br />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📌 Formation-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+</p>
+
+<p><strong>Développement Digital – OFPPT (2024–2026)</strong></p>
+
+<br />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📌 Localisation-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+</p>
+
+<p>Marrakech, Maroc</p>
+
+<br />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📌 Contact-F7DC6F?style=for-the-badge&labelColor=F1C40F&color=black" />
+</p>
+
+<p><strong>ssetaouiabdarrhmane2004@gmail.com</strong></p>
+
 
 
 ## Technologies & Outils
