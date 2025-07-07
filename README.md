@@ -1,5 +1,4 @@
 
-
 # Salut, je suis Abderrhman Settaoui
 
 <div align="center">
@@ -32,31 +31,31 @@
 
 
 <p align="left">
-Je suis un <strong>développeur full-stack</strong> passionné, actuellement étudiant en <strong>Développement Digital</strong> à l’OFPPT (2024–2026).  
-Je me spécialise dans la création d'applications web modernes, performantes et bien structurées, en suivant les bonnes pratiques de développement.
+  Je suis un <strong style="color:#FFD700;">développeur full-stack</strong> passionné, actuellement étudiant en <strong style="color:#FFD700;">Développement Digital</strong> à l’OFPPT (2024–2026).  
+  Je me spécialise dans la création d'applications web modernes, performantes et bien structurées, en suivant les bonnes pratiques de développement.
 </p>
 
 <br />
 
 <table>
   <tr>
-    <td><strong style="color:#00D9FF">📌 Technologies principales :</strong></td>
+    <td><strong style="color:#FFD700;">📌 Technologies principales :</strong></td>
     <td>Laravel, React, PHP, JavaScript, Node.js, MySQL</td>
   </tr>
   <tr>
-    <td><strong style="color:#00D9FF">📌 Objectif professionnel :</strong></td>
+    <td><strong style="color:#FFD700;">📌 Objectif professionnel :</strong></td>
     <td>Devenir un développeur full-stack capable de mener un projet de bout en bout.</td>
   </tr>
   <tr>
-    <td><strong style="color:#00D9FF">📌 Formation :</strong></td>
+    <td><strong style="color:#FFD700;">📌 Formation :</strong></td>
     <td>Développement Digital – OFPPT (2024–2026)</td>
   </tr>
   <tr>
-    <td><strong style="color:#00D9FF">📌 Localisation :</strong></td>
+    <td><strong style="color:#FFD700;">📌 Localisation :</strong></td>
     <td>Marrakech, Maroc</td>
   </tr>
   <tr>
-    <td><strong style="color:#00D9FF">📌 Contact :</strong></td>
+    <td><strong style="color:#FFD700;">📌 Contact :</strong></td>
     <td>ssetaouiabdarrhmane2004@gmail.com</td>
   </tr>
 </table>
