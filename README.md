@@ -32,9 +32,11 @@
 
 # README Profile
 
+# README Profile
+
 <!-- Présentation -->
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Présentation-Full%20Stack%20Developer-FFD700?style=for-the-badge&labelColor=000000&color=FFD700&logoWidth=400" width="400" />
+  <img src="https://img.shields.io/badge/📌%20Présentation-Full%20Stack%20Developer-FFD700?style=for-the-badge&labelColor=000000&color=FFD700&logoWidth=400" width="400" height="28" />
 </p>
 
 <p align="left">
@@ -42,7 +44,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Technologies-Laravel,%20React,%20Node,%20PHP,%20MySQL-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" />
+  <img src="https://img.shields.io/badge/📌%20Technologies-Laravel,%20React,%20Node,%20PHP,%20MySQL-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
 </p>
 
 <p align="left">
@@ -50,7 +52,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Objectif-Devenir%20Full%20Stack%20Pro-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" />
+  <img src="https://img.shields.io/badge/📌%20Objectif-Devenir%20Full%20Stack%20Pro-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
 </p>
 
 <p align="left">
@@ -58,7 +60,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Formation-OFPPT%202024--2026-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" />
+  <img src="https://img.shields.io/badge/📌%20Formation-OFPPT%202024--2026-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
 </p>
 
 <p align="left">
