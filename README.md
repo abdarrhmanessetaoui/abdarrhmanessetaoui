@@ -3,8 +3,9 @@
 # Salut, je suis Abderrhmane Settaoui
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;%C3%89tudiant+%C3%A0+l'OFPPT;Passionn%C3%A9+par+le+Web;Toujours+en+train+d'apprendre" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;%C3%89tudiant+%C3%A0+l'OFPPT;Passionn%C3%A9+par+le+Web;Toujours+en+train+d'apprendre" alt="Typing SVG">
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&color=blueviolet&style=flat-square&label=Visiteurs+du+profil">
