@@ -39,23 +39,23 @@
 
 <table>
   <tr>
-    <td><strong style="color:#FFD700;">📌 Technologies principales :</strong></td>
+    <td width="250" bgcolor="#FFD700"><strong>📌 Technologies principales</strong></td>
     <td>Laravel, React, PHP, JavaScript, Node.js, MySQL</td>
   </tr>
   <tr>
-    <td><strong style="color:#FFD700;">📌 Objectif professionnel :</strong></td>
+    <td bgcolor="#FFD700"><strong>📌 Objectif professionnel</strong></td>
     <td>Devenir un développeur full-stack capable de mener un projet de bout en bout.</td>
   </tr>
   <tr>
-    <td><strong style="color:#FFD700;">📌 Formation :</strong></td>
+    <td bgcolor="#FFD700"><strong>📌 Formation</strong></td>
     <td>Développement Digital – OFPPT (2024–2026)</td>
   </tr>
   <tr>
-    <td><strong style="color:#FFD700;">📌 Localisation :</strong></td>
+    <td bgcolor="#FFD700"><strong>📌 Localisation</strong></td>
     <td>Marrakech, Maroc</td>
   </tr>
   <tr>
-    <td><strong style="color:#FFD700;">📌 Contact :</strong></td>
+    <td bgcolor="#FFD700"><strong>📌 Contact</strong></td>
     <td>ssetaouiabdarrhmane2004@gmail.com</td>
   </tr>
 </table>
