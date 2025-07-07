@@ -33,10 +33,11 @@
 # README Profile
 
 # README Profile
+# README Profile
 
 <!-- Présentation -->
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Présentation-Full%20Stack%20Developer-FFD700?style=for-the-badge&labelColor=000000&color=FFD700&logoWidth=400" width="400" height="28" />
+  <img src="https://img.shields.io/badge/📌%20Présentation-Full%20Stack%20Developer-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
 </p>
 
 <p align="left">
@@ -68,7 +69,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Localisation-Marrakech,%20Maroc-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" />
+  <img src="https://img.shields.io/badge/📌%20Localisation-Marrakech,%20Maroc-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
 </p>
 
 <p align="left">
@@ -76,13 +77,12 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📌%20Contact-ssetaouiabdarrhmane2004@gmail.com-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" />
+  <img src="https://img.shields.io/badge/📌%20Contact-ssetaouiabdarrhmane2004@gmail.com-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" width="400" height="28" />
 </p>
 
 <p align="left">
   Email: ssetaouiabdarrhmane2004@gmail.com
 </p>
-
 
 
 ## Technologies & Outils
