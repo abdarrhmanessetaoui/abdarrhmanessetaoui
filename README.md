@@ -32,7 +32,7 @@
 
 <!-- Présentation -->
 <p align="left">
-  <img src="https://img.shields.io/badge/PRÉSENTATION-FULL_STACK_DEVELOPER-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📌_PRÉSENTATION-FULL_STACK_DEVELOPER-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
@@ -41,7 +41,7 @@
 
 <!-- Technologies -->
 <p align="left">
-  <img src="https://img.shields.io/badge/TECHNOLOGIES-LARAVEL,_REACT,_NODE,_PHP,_MYSQL-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📌_TECHNOLOGIES-LARAVEL,_REACT,_NODE,_PHP,_MYSQL-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
@@ -50,7 +50,7 @@
 
 <!-- Objectif -->
 <p align="left">
-  <img src="https://img.shields.io/badge/OBJECTIF-DEVENIR_FULL_STACK_PRO-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📌_OBJECTIF-DEVENIR_FULL_STACK_PRO-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
@@ -59,27 +59,16 @@
 
 <!-- Formation -->
 <p align="left">
-  <img src="https://img.shields.io/badge/FORMATION-OFPPT_2024--2026-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📌_FORMATION-OFPPT_2024--2026-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
-  Baccalauréat Technique Électrique (2023) – Lycée Hassan 2 Marrakech  
-  <br />
   Développement Digital – OFPPT (2024–2026)
-</p>
-
-<!-- Langues -->
-<p align="left">
-  <img src="https://img.shields.io/badge/LANGUES-ENGLISH_A2,_FRANÇAIS_B1,_ARABE_MATERNELLE-FFD700?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p align="left">
-  <strong>English A2</strong>, <strong>Français B1</strong>, <strong>Arabe (langue maternelle)</strong>
 </p>
 
 <!-- Localisation -->
 <p align="left">
-  <img src="https://img.shields.io/badge/LOCALISATION-MARRAKECH,_MAROC-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📌_LOCALISATION-MARRAKECH,_MAROC-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
@@ -88,7 +77,7 @@
 
 <!-- Contact -->
 <p align="left">
-  <img src="https://img.shields.io/badge/CONTACT-ssetaouiabdarrhmane2004@gmail.com-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📌_CONTACT-SSETAOUIABDARRHMANE2004@GMAIL.COM-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
