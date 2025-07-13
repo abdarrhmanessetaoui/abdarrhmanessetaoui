@@ -131,19 +131,19 @@ Feel free to reach out!
   <a href="https://github.com/abdarrhmanessetaoui" target="_blank" rel="noopener noreferrer" title="My GitHub Profile">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://instagram.com/username" target="_blank" rel="noopener noreferrer" title="My Instagram Profile">
+  <a href="https://instagram.com/settaouitech" target="_blank" rel="noopener noreferrer" title="My Instagram Profile">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/yourwhatsappnumber" target="_blank" rel="noopener noreferrer" title="Chat on WhatsApp">
+  <a href="https://wa.me/212776429048" target="_blank" rel="noopener noreferrer" title="Chat on WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://facebook.com/username" target="_blank" rel="noopener noreferrer" title="My Facebook Profile">
+  <a href="https://www.facebook.com/profile.php?id=61550493181950" target="_blank" rel="noopener noreferrer" title="My Facebook Profile">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://discord.com/users/yourdiscordid" target="_blank" rel="noopener noreferrer" title="My Discord Profile">
+  <a href="https://discord.gg/hD2bncb2uM" target="_blank" rel="noopener noreferrer" title="My Discord Server">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://www.fiverr.com/yourfiverrusername" target="_blank" rel="noopener noreferrer" title="My Fiverr Profile">
+  <a href="https://www.fiverr.com/settaoui_dev?public_mode=true" target="_blank" rel="noopener noreferrer" title="My Fiverr Profile">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
   </a>
 </p>
