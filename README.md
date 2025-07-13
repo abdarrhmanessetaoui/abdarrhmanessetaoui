@@ -137,6 +137,11 @@ Feel free to reach out anytime!
 
 ---
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Feel+free+to+contact+me!&fontSize=16&fontColor=FFD700&animation=twinkling&colors=FFD700,FFFF00" alt="Footer">
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=FFD700&center=true&width=400&lines=Feel+free+to+contact+me!;Let's+build+something+great+together!" alt="Typing Footer" />
 </div>
