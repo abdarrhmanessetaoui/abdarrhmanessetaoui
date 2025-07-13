@@ -137,10 +137,9 @@ Feel free to reach out anytime!
 
 ---
 
-<div align="center" style="margin-top: 30px;">
-  <p style="font-size: 18px; font-weight: bold; color: #FFD700;">
-    Feel free to ⭐ my repositories if you find them useful!
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=FFD700&center=true&width=400&lines=Feel+free+to+contact+me!;Let's+build+something+great+together!" alt="Typing Footer" />
 </div>
+
 
 
