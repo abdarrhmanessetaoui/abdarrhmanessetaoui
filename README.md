@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/📌_FULL_STACK-DEVELOPER-FFD700?style=for-the-badge&labelColor=000000" alt="Full Stack Developer Badge" />
 </p>
 
-I’m a passionate full-stack developer pursuing a degree in **Digital Development** at **OFPPT (2024–2026)**.  
+I’m a passionate full-stack developer pursuing a degree in **Digital Development** at **OFPPT**.  
 I build modern, efficient, and well-structured web applications using best practices.
 
 ---
