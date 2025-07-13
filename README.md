@@ -118,16 +118,15 @@
 ## Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdarrhmanessetaoui&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdarrhmanessetaoui&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&stroke=FFFFFF" alt="GitHub Streak" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=redical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=radical&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" alt="Activity Graph" width="48%">
 </div>
 
----
 
 ## Projets en vedette
 
