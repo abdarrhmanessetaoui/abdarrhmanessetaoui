@@ -159,7 +159,9 @@
 
 ### Langues
 
+
 ![Anglais](https://img.shields.io/badge/Anglais-A2-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)
+
 ![Français](https://img.shields.io/badge/Français-B1-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
 ![Arabe](https://img.shields.io/badge/Arabe-Langue%20maternelle-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
 
