@@ -110,9 +110,7 @@
 
 ## Collaboration
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Feel+free+to+contact+me!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer">
-</div>
+
 
 I'm always open to new collaborations and projects! Whether you want to:
 
