@@ -131,22 +131,9 @@
 ## Projets en vedette
 
 <div align="center">
-  <a href="https://github.com/abdarrhmanessetaoui/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Portfolio">
-  </a>
-  <a href="https://github.com/abdarrhmanessetaoui/crud-php">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=crud-php&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="CRUD PHP">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" width="60%">
 </div>
 
-<div align="center">
-  <a href="https://github.com/abdarrhmanessetaoui/laravel-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=laravel-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Laravel Projects">
-  </a>
-  <a href="https://github.com/abdarrhmanessetaoui/layouts-html-css">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=layouts-html-css&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="HTML CSS Layouts">
-  </a>
-</div>
 
 ---
 
