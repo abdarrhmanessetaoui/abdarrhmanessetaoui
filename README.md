@@ -84,6 +84,10 @@
   Email: ssetaouiabdarrhmane2004@gmail.com
 </p>
 
+
+---
+
+
 ## Technologies & Outils
 
 ### Frontend
@@ -127,6 +131,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=radical&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" alt="Activity Graph" width="48%">
 </div>
 
+---
 
 ## Projets en vedette
 
@@ -140,9 +145,9 @@
 
 ---
 
-## Formation & Compétences
+## Formation & Langues
 
-## Formation
+### Formation
 
 | Année                         | Diplôme                                                     | Établissement                              |
 |-------------------------------|-------------------------------------------------------------|-------------------------------------------|
@@ -151,26 +156,13 @@
 
 ---
 
-### Compétences & Technologies
+### Langues
 
-![HTML5](https://img.shields.io/badge/HTML5-yellow?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-yellow?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)  
-![React](https://img.shields.io/badge/React-yellow?style=for-the-badge&logo=react&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-yellow?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-yellow?style=for-the-badge&logo=laravel&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-yellow?style=for-the-badge&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
+![Français](https://img.shields.io/badge/Français-Courant-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
+![Arabe](https://img.shields.io/badge/Arabe-Langue%20maternelle-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
+![Anglais](https://img.shields.io/badge/Anglais-Intermédiaire-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
-
-
-### Langues
-- Français : Courant
-- Arabe : Langue maternelle
-- Anglais : Intermédiaire
-
-
 
 ## Collaboration
 
