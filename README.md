@@ -23,9 +23,14 @@
   <img src="https://img.shields.io/badge/📌_FULL_STACK-DEVELOPER-yellow?style=for-the-badge&labelColor=000000" />
 </p>
 
-<p align="left">
-  I am a passionate <strong>full-stack developer</strong>, currently studying <strong>Digital Development</strong> at OFPPT (2024–2026). I specialize in building modern, efficient, and well-structured web applications by following best development practices.
-</p>
+<h3 align="left">
+  💻 <span style="font-size: 22px;">
+    I am a passionate <strong>full-stack developer</strong>, currently studying <strong>Digital Development</strong> at <strong>OFPPT (2024–2026)</strong>.
+    <br /><br />
+    I specialize in building <strong>modern</strong>, <strong>efficient</strong>, and <strong>well-structured</strong> web applications by following <strong>best development practices</strong>.
+  </span>
+</h3>
+
 
 ---
 
