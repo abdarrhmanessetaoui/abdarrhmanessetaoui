@@ -1,12 +1,11 @@
 # Hello, I'm Abderrhman Settaoui
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=yellow&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Student+at+OFPPT;Web+Enthusiast;Always+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Student+at+OFPPT;Web+Enthusiast;Always+Learning" alt="Typing SVG">
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&color=yellow&style=flat-square&label=Profile+Views">
-
   <img src="https://img.shields.io/github/followers/abdarrhmanessetaoui?color=yellow&style=flat-square&logo=github&label=Followers">
   <img src="https://img.shields.io/github/stars/abdarrhmanessetaoui?color=yellow&style=flat-square&logo=github&label=Stars">
 </div>
@@ -20,7 +19,6 @@
 
 ---
 
-<!-- Introduction -->
 <p align="left">
   <img src="https://img.shields.io/badge/📌_FULL_STACK-DEVELOPER-yellow?style=for-the-badge&labelColor=000000" />
 </p>
@@ -65,13 +63,13 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=yellow&icon_color=yellow&text_color=white" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdarrhmanessetaoui&theme=radical&hide_border=true&background=0D1117&ring=yellow&fire=yellow&currStreakLabel=yellow&stroke=white" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFF00&icon_color=FFFF00&text_color=FFFFFF" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdarrhmanessetaoui&theme=radical&hide_border=true&background=0D1117&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&stroke=FFFFFF" alt="GitHub Streak" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=yellow&text_color=white" alt="Top Languages" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=radical&hide_border=true&bg_color=0D1117&color=yellow&line=yellow&point=white" alt="Activity Graph" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFF00&text_color=FFFFFF" alt="Top Languages" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=radical&hide_border=true&bg_color=0D1117&color=FFFF00&line=FFFF00&point=FFFFFF" alt="Activity Graph" width="48%">
 </div>
 
 ---
@@ -80,7 +78,7 @@
 
 <div align="center">
   <a href="https://github.com/abdarrhmanessetaoui/portfolio-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=portfolio-site&theme=radical&title_color=yellow&text_color=white&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=portfolio-site&theme=radical&title_color=FFFF00&text_color=FFFFFF&bg_color=0D1117" />
   </a>
 </div>
 
@@ -145,4 +143,3 @@ Don't hesitate to reach out!
 <div align="center">
   <i>Feel free to ⭐ my repos if you find them helpful!</i>
 </div>
-
