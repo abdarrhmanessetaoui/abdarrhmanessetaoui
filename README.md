@@ -30,9 +30,6 @@
 
 
 
-
-# README Profile
-
 <!-- Présentation -->
 <p align="left">
   <img src="https://img.shields.io/badge/📌_PRÉSENTATION-FULL_STACK_DEVELOPER-FFD700?style=for-the-badge&labelColor=000000" />
