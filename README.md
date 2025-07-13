@@ -131,8 +131,11 @@
 ## Projets en vedette
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" width="60%">
+  <a href="https://github.com/abdarrhmanessetaoui/portfolio-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=portfolio-site&theme=radical&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" />
+  </a>
 </div>
+
 
 
 ---
