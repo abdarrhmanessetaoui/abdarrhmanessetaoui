@@ -143,7 +143,11 @@ Feel free to reach out!
   <a href="https://discord.com/users/yourdiscordid" target="_blank" rel="noopener noreferrer" title="My Discord Profile">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
+  <a href="https://www.fiverr.com/yourfiverrusername" target="_blank" rel="noopener noreferrer" title="My Fiverr Profile">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+  </a>
 </p>
+
 
 
 
