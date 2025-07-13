@@ -39,52 +39,6 @@
   Je suis un <strong>développeur full-stack</strong> passionné, actuellement étudiant en <strong>Développement Digital</strong> à l'OFPPT (2024–2026). Je me spécialise dans la création d'applications web modernes, performantes et bien structurées, en suivant les bonnes pratiques de développement.
 </p>
 
-<!-- Technologies -->
-<p align="left">
-  <img src="https://img.shields.io/badge/📌_TECHNOLOGIES-LARAVEL,_REACT,_NODE,_PHP,_MYSQL-FFD700?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p align="left">
-  <strong>Laravel</strong>, <strong>React</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>MySQL</strong>
-</p>
-
-<!-- Objectif -->
-<p align="left">
-  <img src="https://img.shields.io/badge/📌_OBJECTIF-DEVENIR_FULL_STACK_PRO-FFD700?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p align="left">
-  Devenir un développeur full-stack capable de mener un projet de bout en bout.
-</p>
-
-<!-- Formation -->
-<p align="left">
-  <img src="https://img.shields.io/badge/📌_FORMATION-OFPPT_2024--2026-FFD700?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p align="left">
-  Développement Digital – OFPPT (2024–2026)
-</p>
-
-<!-- Localisation -->
-<p align="left">
-  <img src="https://img.shields.io/badge/📌_LOCALISATION-MARRAKECH,_MAROC-FFD700?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p align="left">
-  Marrakech, Maroc
-</p>
-
-<!-- Contact -->
-<p align="left">
-  <img src="https://img.shields.io/badge/📌_CONTACT-SSETAOUIABDARRHMANE2004@GMAIL.COM-FFD700?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p align="left">
-  Email: ssetaouiabdarrhmane2004@gmail.com
-</p>
-
-
 ---
 
 
