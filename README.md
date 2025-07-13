@@ -142,14 +142,15 @@
 
 ## Formation & Compétences
 
-### Formation
+## Formation
 
-| Année       | Diplôme                          | Établissement              |
-|-------------|---------------------------------|---------------------------|
-| 2023        | ![Bac](https://img.shields.io/badge/Baccalauréat-Tech%20Électrique-blue?style=flat) | Lycée Hassan 2 Marrakech  |
-| 2024 - 2026 | ![OFPPT](https://img.shields.io/badge/Développement-Digital-brightgreen?style=flat) | OFPPT                     |
+| Année                         | Diplôme                                                     | Établissement                              |
+|-------------------------------|-------------------------------------------------------------|-------------------------------------------|
+| ![2023](https://img.shields.io/badge/2023-0A66C2?style=for-the-badge&logo=calendar&logoColor=white) | ![Bac Tech Electrique](https://img.shields.io/badge/Baccalauréat-Tech%20Électrique-blue?style=for-the-badge) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-orange?style=for-the-badge) |
+| ![2024-2026](https://img.shields.io/badge/2024--2026-0A66C2?style=for-the-badge&logo=calendar&logoColor=white) | ![Développement Digital](https://img.shields.io/badge/Développement-Digital-brightgreen?style=for-the-badge) | ![OFPPT](https://img.shields.io/badge/OFPPT-formation-red?style=for-the-badge) |
 
 ---
+
 ### Langues
 - Français : Courant
 - Arabe : Langue maternelle
