@@ -142,39 +142,39 @@
 
 ## Formation & Compétences
 
-### Formation actuelle
-**Développement Digital - OFPPT** | *2024 - 2026*
+### <span style="color:#FFD700;">Formation actuelle</span>
+**<span style="color:white;">Développement Digital - OFPPT</span>** | *<span style="color:#FFD700;">2024 - 2026</span>*
 
-### Compétences techniques
+### 🛠<span style="color:#FFD700;">Compétences techniques</span>
+
 <table>
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>HTML5, CSS3, JavaScript ES6+, React, Tailwind CSS, Bootstrap</td>
+    <td><strong><span style="color:#FFD700;">Frontend</span></strong></td>
+    <td><span style="color:white;">HTML5, CSS3, JavaScript ES6+, React, Tailwind CSS, Bootstrap</span></td>
   </tr>
   <tr>
-    <td><strong>Backend</strong></td>
-    <td>PHP, Laravel, Node.js, API RESTful</td>
+    <td><strong><span style="color:#FFD700;">Backend</span></strong></td>
+    <td><span style="color:white;">PHP, Laravel, Node.js, API RESTful</span></td>
   </tr>
   <tr>
-    <td><strong>Base de données</strong></td>
-    <td>MySQL, SQLite</td>
+    <td><strong><span style="color:#FFD700;">Base de données</span></strong></td>
+    <td><span style="color:white;">MySQL, SQLite</span></td>
   </tr>
   <tr>
-    <td><strong>Outils</strong></td>
-    <td>Git, GitHub, VS Code, Postman</td>
+    <td><strong><span style="color:#FFD700;">Outils</span></strong></td>
+    <td><span style="color:white;">Git, GitHub, VS Code, Postman</span></td>
   </tr>
   <tr>
-    <td><strong>Méthodologies</strong></td>
-    <td>Agile, MVC, Responsive Design</td>
+    <td><strong><span style="color:#FFD700;">Méthodologies</span></strong></td>
+    <td><span style="color:white;">Agile, MVC, Responsive Design</span></td>
   </tr>
 </table>
 
-### Langues
-- **Français** : Courant
-- **Arabe** : Langue maternelle
-- **Anglais** : Intermédiaire
+### <span style="color:#FFD700;">Langues</span>
+- <span style="color:white;">**Français**</span> : <span style="color:#FFD700;">Courant</span>  
+- <span style="color:white;">**Arabe**</span> : <span style="color:#FFD700;">Langue maternelle</span>  
+- <span style="color:white;">**Anglais**</span> : <span style="color:#FFD700;">Intermédiaire</span>
 
----
 
 ## Collaboration
 
