@@ -146,10 +146,24 @@
 
 | Année                         | Diplôme                                                     | Établissement                              |
 |-------------------------------|-------------------------------------------------------------|-------------------------------------------|
-| ![2023](https://img.shields.io/badge/2023-0A66C2?style=for-the-badge&logo=calendar&logoColor=white) | ![Bac Tech Electrique](https://img.shields.io/badge/Baccalauréat-Tech%20Électrique-blue?style=for-the-badge) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-orange?style=for-the-badge) |
-| ![2024-2026](https://img.shields.io/badge/2024--2026-0A66C2?style=for-the-badge&logo=calendar&logoColor=white) | ![Développement Digital](https://img.shields.io/badge/Développement-Digital-brightgreen?style=for-the-badge) | ![OFPPT](https://img.shields.io/badge/OFPPT-formation-red?style=for-the-badge) |
+| ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Bac Tech Electrique](https://img.shields.io/badge/Baccalauréat-Tech%20Électrique-yellow?style=for-the-badge&logo=academic-cap&logoColor=white) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-yellow?style=for-the-badge&logo=school&logoColor=white) |
+| ![2024-2026](https://img.shields.io/badge/2024--2026-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Développement Digital](https://img.shields.io/badge/Développement-Digital-yellow?style=for-the-badge&logo=computer&logoColor=white) | ![OFPPT](https://img.shields.io/badge/OFPPT-yellow?style=for-the-badge&logo=education&logoColor=white) |
 
 ---
+
+### Compétences & Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-yellow?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-yellow?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)  
+![React](https://img.shields.io/badge/React-yellow?style=for-the-badge&logo=react&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-yellow?style=for-the-badge&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-yellow?style=for-the-badge&logo=laravel&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-yellow?style=for-the-badge&logo=node.js&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
 
 ### Langues
 - Français : Courant
