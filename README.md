@@ -118,7 +118,7 @@ Feel free to reach out!
 
 
 <p align="center">
-  <a href="mailto:ssetaouiabdarrhmane2004@gmail.com" title="Send me an email">
+  <a href="mailto:settaoui.dev@gmail.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/abderrhman-settaoui-33569b305/" target="_blank" rel="noopener noreferrer" title="My LinkedIn Profile">
