@@ -142,38 +142,24 @@
 
 ## Formation & Compétences
 
-### <span style="color:#FFD700;">Formation actuelle</span>
-**<span style="color:white;">Développement Digital - OFPPT</span>** | *<span style="color:#FFD700;">2024 - 2026</span>*
+### Formation actuelle
+**Développement Digital - OFPPT** | *2024 - 2026*
 
-### 🛠<span style="color:#FFD700;">Compétences techniques</span>
+### 🛠️ Compétences techniques
 
-<table>
-  <tr>
-    <td><strong><span style="color:#FFD700;">Frontend</span></strong></td>
-    <td><span style="color:white;">HTML5, CSS3, JavaScript ES6+, React, Tailwind CSS, Bootstrap</span></td>
-  </tr>
-  <tr>
-    <td><strong><span style="color:#FFD700;">Backend</span></strong></td>
-    <td><span style="color:white;">PHP, Laravel, Node.js, API RESTful</span></td>
-  </tr>
-  <tr>
-    <td><strong><span style="color:#FFD700;">Base de données</span></strong></td>
-    <td><span style="color:white;">MySQL, SQLite</span></td>
-  </tr>
-  <tr>
-    <td><strong><span style="color:#FFD700;">Outils</span></strong></td>
-    <td><span style="color:white;">Git, GitHub, VS Code, Postman</span></td>
-  </tr>
-  <tr>
-    <td><strong><span style="color:#FFD700;">Méthodologies</span></strong></td>
-    <td><span style="color:white;">Agile, MVC, Responsive Design</span></td>
-  </tr>
-</table>
+| Domaine       | Technologies                                                                 |
+|---------------|------------------------------------------------------------------------------|
+| Frontend      | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black), ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| Backend       | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white), ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white), API RESTful |
+| Base de données | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white), SQLite |
+| Outils        | Git, GitHub, VS Code, Postman                                                |
+| Méthodologies | Agile, MVC, Responsive Design                                                |
 
-### <span style="color:#FFD700;">Langues</span>
-- <span style="color:white;">**Français**</span> : <span style="color:#FFD700;">Courant</span>  
-- <span style="color:white;">**Arabe**</span> : <span style="color:#FFD700;">Langue maternelle</span>  
-- <span style="color:white;">**Anglais**</span> : <span style="color:#FFD700;">Intermédiaire</span>
+### Langues
+- Français : Courant
+- Arabe : Langue maternelle
+- Anglais : Intermédiaire
+
 
 
 ## Collaboration
