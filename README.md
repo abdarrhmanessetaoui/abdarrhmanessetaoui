@@ -114,27 +114,27 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Feel+free+to+contact+me!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer">
 </div>
 
-I'm always open to collaborations and new projects! If you have a cool idea or you're looking for someone to:
+I'm always open to new collaborations and projects! Whether you want to:
 
 - Build a web application  
-- Create a modern showcase website  
+- Create a modern portfolio or showcase site  
 - Convert UI/UX designs into code  
-- Contribute to an open-source project  
+- Contribute to open-source projects  
 
-Don't hesitate to reach out!
+Feel free to reach out anytime!
 
 ---
 
 ## Contact Me
 
 <div align="center">
-  <a href="mailto:abderrhman.settaoui@example.com">
+  <a href="mailto:abderrhman.settaoui@example.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/votre-profil">
+  <a href="https://linkedin.com/in/votre-profil" target="_blank" rel="noopener noreferrer" title="My LinkedIn Profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/abdarrhmanessetaoui">
+  <a href="https://github.com/abdarrhmanessetaoui" target="_blank" rel="noopener noreferrer" title="My GitHub Profile">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
@@ -146,5 +146,5 @@ Don't hesitate to reach out!
 </div>
 
 <div align="center">
-  <i>Feel free to ⭐ my repos if you find them helpful!</i>
+  <i>Feel free to ⭐ my repositories if you find them useful!</i>
 </div>
