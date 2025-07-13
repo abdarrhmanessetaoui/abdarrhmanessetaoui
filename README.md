@@ -32,7 +32,6 @@
 ## Technologies & Tools
 
 ### Frontend
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -43,7 +42,6 @@
 </p>
 
 ### Backend
-
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
@@ -53,7 +51,6 @@
 </p>
 
 ### Tools & Platforms
-
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -96,8 +93,6 @@
 | ![2024-2026](https://img.shields.io/badge/2024--2026-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Digital Development](https://img.shields.io/badge/Digital-Development-yellow?style=for-the-badge&logo=computer&logoColor=white) | ![OFPPT](https://img.shields.io/badge/OFPPT-yellow?style=for-the-badge&logo=education&logoColor=white) |
 | ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Electrical Tech Bac](https://img.shields.io/badge/Baccalauréat-Electrical-yellow?style=for-the-badge&logo=academic-cap&logoColor=white) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-yellow?style=for-the-badge&logo=school&logoColor=white) |
 
----
-
 ### Languages
 
 <p align="left">
@@ -137,14 +132,6 @@ Feel free to reach out anytime!
 
 ---
 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Feel+free+to+contact+me!&fontSize=16&fontColor=FFD700&animation=twinkling&colors=FFD700,FFFF00" alt="Footer">
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=FFD700&center=true&width=400&lines=Feel+free+to+contact+me!;Let's+build+something+great+together!" alt="Typing Footer" />
 </div>
-
-
-
