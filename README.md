@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">
-  💻 <span style="font-size: 22px;">
+   <span style="font-size: 22px;">
     I am a passionate <strong>full-stack developer</strong>, currently studying <strong>Digital Development</strong> at <strong>OFPPT (2024–2026)</strong>.
     <br /><br />
     I specialize in building <strong>modern</strong>, <strong>efficient</strong>, and <strong>well-structured</strong> web applications by following <strong>best development practices</strong>.
