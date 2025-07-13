@@ -151,16 +151,18 @@
 
 | Année                         | Diplôme                                                     | Établissement                              |
 |-------------------------------|-------------------------------------------------------------|-------------------------------------------|
-| ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Bac Tech Electrique](https://img.shields.io/badge/Baccalauréat-Tech%20Électrique-yellow?style=for-the-badge&logo=academic-cap&logoColor=white) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-yellow?style=for-the-badge&logo=school&logoColor=white) |
 | ![2024-2026](https://img.shields.io/badge/2024--2026-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Développement Digital](https://img.shields.io/badge/Développement-Digital-yellow?style=for-the-badge&logo=computer&logoColor=white) | ![OFPPT](https://img.shields.io/badge/OFPPT-yellow?style=for-the-badge&logo=education&logoColor=white) |
+| ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Bac Tech Electrique](https://img.shields.io/badge/Baccalauréat-Tech%20Électrique-yellow?style=for-the-badge&logo=academic-cap&logoColor=white) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-yellow?style=for-the-badge&logo=school&logoColor=white) |
+
 
 ---
 
 ### Langues
 
-![Français](https://img.shields.io/badge/Français-Courant-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
+![Anglais](https://img.shields.io/badge/Anglais-A2-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Français](https://img.shields.io/badge/Français-B1-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
 ![Arabe](https://img.shields.io/badge/Arabe-Langue%20maternelle-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
-![Anglais](https://img.shields.io/badge/Anglais-Intermédiaire-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)
+
 
 ---
 
