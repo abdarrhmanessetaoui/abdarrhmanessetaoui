@@ -1,48 +1,37 @@
-
-# Salut, je suis Abderrhman Settaoui
+# Hello, I'm Abderrhman Settaoui
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;%C3%89tudiant+%C3%A0+l'OFPPT;Passionn%C3%A9+par+le+Web;Toujours+en+train+d'apprendre" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Student+at+OFPPT;Web+Enthusiast;Always+Learning" alt="Typing SVG">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&color=FFD700&style=flat-square&label=Visiteurs+du+profil">
+  <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&color=FFD700&style=flat-square&label=Profile+Views">
 
   <img src="https://img.shields.io/github/followers/abdarrhmanessetaoui?color=FFD700&style=flat-square&logo=github&label=Followers">
   <img src="https://img.shields.io/github/stars/abdarrhmanessetaoui?color=FFD700&style=flat-square&logo=github&label=Stars">
 </div>
 
-
-
-
 ---
 
-## À propos de moi
+## About Me
 <p align="center">
-  <img src="banner.png" alt="Banner Abderrhmane Ssetaoui" style="width:100%; max-height:300px; object-fit:cover;">
+  <img src="banner.png" alt="Banner Abderrhman Settaoui" style="width:100%; max-height:300px; object-fit:cover;">
 </p>
 
-
-
-
-
 ---
 
-
-
-<!-- Présentation -->
+<!-- Introduction -->
 <p align="left">
   <img src="https://img.shields.io/badge/📌_FULL_STACK-DEVELOPER-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
-  Je suis un <strong>développeur full-stack</strong> passionné, actuellement étudiant en <strong>Développement Digital</strong> à l'OFPPT (2024–2026). Je me spécialise dans la création d'applications web modernes, performantes et bien structurées, en suivant les bonnes pratiques de développement.
+  I am a passionate <strong>full-stack developer</strong>, currently studying <strong>Digital Development</strong> at OFPPT (2024–2026). I specialize in building modern, efficient, and well-structured web applications by following best development practices.
 </p>
 
 ---
 
-
-## Technologies & Outils
+## Technologies & Tools
 
 ### Frontend
 <p align="left">
@@ -63,7 +52,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-### Outils & Plateformes
+### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -73,7 +62,7 @@
 
 ---
 
-## Statistiques GitHub
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" width="48%">
@@ -87,7 +76,7 @@
 
 ---
 
-## Projets en vedette
+## Featured Projects
 
 <div align="center">
   <a href="https://github.com/abdarrhmanessetaoui/portfolio-site">
@@ -95,52 +84,47 @@
   </a>
 </div>
 
+---
 
+## Education & Languages
+
+### Education
+
+| Year                          | Degree                                                       | Institution                             |
+|------------------------------|---------------------------------------------------------------|------------------------------------------|
+| ![2024-2026](https://img.shields.io/badge/2024--2026-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Digital Development](https://img.shields.io/badge/Digital-Development-yellow?style=for-the-badge&logo=computer&logoColor=white) | ![OFPPT](https://img.shields.io/badge/OFPPT-yellow?style=for-the-badge&logo=education&logoColor=white) |
+| ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Electrical Tech Bac](https://img.shields.io/badge/Baccalauréat-Electrical-yellow?style=for-the-badge&logo=academic-cap&logoColor=white) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-yellow?style=for-the-badge&logo=school&logoColor=white) |
 
 ---
 
-## Formation & Langues
+### Languages
 
-### Formation
+![English](https://img.shields.io/badge/English-A2-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-| Année                         | Diplôme                                                     | Établissement                              |
-|-------------------------------|-------------------------------------------------------------|-------------------------------------------|
-| ![2024-2026](https://img.shields.io/badge/2024--2026-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Développement Digital](https://img.shields.io/badge/Développement-Digital-yellow?style=for-the-badge&logo=computer&logoColor=white) | ![OFPPT](https://img.shields.io/badge/OFPPT-yellow?style=for-the-badge&logo=education&logoColor=white) |
-| ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Bac Tech Electrique](https://img.shields.io/badge/Baccalauréat-Tech%20Électrique-yellow?style=for-the-badge&logo=academic-cap&logoColor=white) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-yellow?style=for-the-badge&logo=school&logoColor=white) |
+![French](https://img.shields.io/badge/French-B1-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
 
-
----
-
-### Langues
-
-
-![Anglais](https://img.shields.io/badge/Anglais-A2-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)
-
-![Français](https://img.shields.io/badge/Français-B1-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
-
-![Arabe](https://img.shields.io/badge/Arabe-Langue%20maternelle-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
-
+![Arabic](https://img.shields.io/badge/Arabic-Native-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
 
 ---
 
 ## Collaboration
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=N'h%C3%A9sitez%20pas%20%C3%A0%20me%20contacter%20!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Feel+free+to+contact+me!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer">
 </div>
 
-Je suis toujours ouvert aux collaborations et aux nouveaux projets ! Si vous avez une idée intéressante ou si vous cherchez quelqu'un pour :
+I'm always open to collaborations and new projects! If you have a cool idea or you're looking for someone to:
 
-- Développer une application web
-- Créer un site vitrine moderne
-- Intégrer des maquettes UI/UX
-- Contribuer à un projet open source
+- Build a web application  
+- Create a modern showcase website  
+- Convert UI/UX designs into code  
+- Contribute to an open-source project  
 
-N'hésitez pas à me contacter !
+Don't hesitate to reach out!
 
 ---
 
-## Me contacter
+## Contact Me
 
 <div align="center">
   <a href="mailto:abderrhman.settaoui@example.com">
@@ -161,5 +145,5 @@ N'hésitez pas à me contacter !
 </div>
 
 <div align="center">
-  <i>N'hésitez pas à star mes repos si vous les trouvez utiles !</i>
+  <i>Feel free to ⭐ my repos if you find them helpful!</i>
 </div>
