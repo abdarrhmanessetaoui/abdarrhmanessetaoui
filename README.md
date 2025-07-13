@@ -32,7 +32,7 @@
 
 <!-- Présentation -->
 <p align="left">
-  <img src="https://img.shields.io/badge/📌_PRÉSENTATION-FULL_STACK_DEVELOPER-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📌_FULL-STACK_DEVELOPER-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="left">
