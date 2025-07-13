@@ -140,8 +140,10 @@ Feel free to reach out anytime!
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&colorStart=FFD700&colorEnd=FFEA00" alt="Footer Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Feel+free+to+contact+me!&fontSize=16&fontColor=ffffff&animation=twinkling&colors=FFD700,FFEA00" alt="Footer">
 </div>
+
+
 
 
 
