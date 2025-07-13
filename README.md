@@ -24,12 +24,12 @@
 </p>
 
 <h3 align="left">
-   <span style="font-size: 22px;">
-    I am a passionate <strong>full-stack developer</strong>, currently studying <strong>Digital Development</strong> at <strong>OFPPT (2024–2026)</strong>.
-    <br /><br />
-    I specialize in building <strong>modern</strong>, <strong>efficient</strong>, and <strong>well-structured</strong> web applications by following <strong>best development practices</strong>.
+  <span style="font-size: 22px;">
+    I’m a passionate full-stack developer currently pursuing a degree in <strong>Digital Development</strong> at <strong>OFPPT (2024–2026)</strong>.<br><br>
+    I specialize in crafting modern, efficient, and well-structured web applications while following industry best practices.
   </span>
 </h3>
+
 
 
 ---
