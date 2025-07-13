@@ -18,21 +18,20 @@
   <img src="banner.png" alt="Banner Abderrhman Settaoui" style="width:100%; max-height:300px; object-fit:cover;">
 </p>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/📌_FULL_STACK-DEVELOPER-FFD700?style=for-the-badge&labelColor=000000" alt="Full Stack Developer Badge" />
 </p>
 
-<h3 align="left" style="font-size: 22px;">
-  I’m a passionate full-stack developer currently pursuing a degree in <strong>Digital Development</strong> at <strong>OFPPT (2024–2026)</strong>.<br><br>
-  I specialize in crafting modern, efficient, and well-structured web applications while following industry best practices.
-</h3>
+I’m a passionate full-stack developer pursuing a degree in **Digital Development** at **OFPPT (2024–2026)**.  
+I build modern, efficient, and well-structured web applications using best practices.
 
 ---
 
 ## Technologies & Tools
 
 ### Frontend
-<p align="left">
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -42,7 +41,8 @@
 </p>
 
 ### Backend
-<p align="left">
+
+<p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -51,7 +51,8 @@
 </p>
 
 ### Tools & Platforms
-<p align="left">
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
@@ -60,16 +61,16 @@
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdarrhmanessetaoui&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&stroke=FFFFFF" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdarrhmanessetaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdarrhmanessetaoui&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&stroke=FFFFFF" width="48%" alt="GitHub Streak">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=radical&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" alt="Activity Graph" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdarrhmanessetaoui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" width="48%" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdarrhmanessetaoui&theme=radical&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" width="48%" alt="Activity Graph">
 </div>
 
 ---
@@ -78,24 +79,24 @@
 
 <div align="center">
   <a href="https://github.com/abdarrhmanessetaoui/portfolio-site" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=portfolio-site&theme=radical&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Portfolio Site Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=portfolio-site&theme=radical&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Portfolio Site Repo">
   </a>
 </div>
 
 ---
 
-## Education & Languages
+## Education
 
-### Education
+| Year                         | Degree                  | Institution               |
+|------------------------------|-------------------------|---------------------------|
+| ![2024-2026](https://img.shields.io/badge/2024--2026-yellow?style=for-the-badge&logo=calendar&logoColor=white) | Digital Development       | OFPPT                     |
+| ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar&logoColor=white) | Electrical Tech Baccalauréat | Lycée Hassan 2 Marrakech |
 
-| Year                         | Degree                          | Institution                   |
-|------------------------------|---------------------------------|-------------------------------|
-| ![2024-2026](https://img.shields.io/badge/2024--2026-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Digital Development](https://img.shields.io/badge/Digital-Development-yellow?style=for-the-badge&logo=computer&logoColor=white) | ![OFPPT](https://img.shields.io/badge/OFPPT-yellow?style=for-the-badge&logo=education&logoColor=white) |
-| ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Electrical Tech Bac](https://img.shields.io/badge/Baccalauréat-Electrical-yellow?style=for-the-badge&logo=academic-cap&logoColor=white) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-yellow?style=for-the-badge&logo=school&logoColor=white) |
+---
 
-### Languages
+## Languages
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/English-A2-yellow?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English">
   <img src="https://img.shields.io/badge/French-B1-yellow?style=for-the-badge&logo=googletranslate&logoColor=white" alt="French">
   <img src="https://img.shields.io/badge/Arabic-Native-yellow?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabic">
@@ -105,14 +106,14 @@
 
 ## Collaboration
 
-I'm always open to new collaborations and projects! Whether you want to:
+I’m open to collaborations and new projects! Whether you want to:
 
-- Build a web application  
-- Create a modern portfolio or showcase site  
-- Convert UI/UX designs into code  
+- Build a web app  
+- Create a modern portfolio site  
+- Convert UI/UX designs to code  
 - Contribute to open-source projects  
 
-Feel free to reach out anytime!
+Feel free to reach out!
 
 ---
 
