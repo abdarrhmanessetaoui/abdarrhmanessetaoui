@@ -134,5 +134,5 @@ Feel free to reach out!
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=FFD700&center=true&width=400&lines=Contact+me+anytime!;Let's+create+awesome+projects+together!" alt="Typing Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=FFD700&center=true&width=450&lines=Ready+to+collaborate!;Let's+build+the+future+together!" alt="Typing Footer" />
 </div>
