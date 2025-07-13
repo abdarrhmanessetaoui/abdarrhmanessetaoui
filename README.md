@@ -92,18 +92,18 @@
 
 | Year                          | Degree                                                       | Institution                             |
 |------------------------------|---------------------------------------------------------------|------------------------------------------|
-| ![2024-2026](https://img.shields.io/badge/2024--2026-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Digital Development](https://img.shields.io/badge/Digital-Development-yellow?style=for-the-badge&logo=computer&logoColor=white) | ![OFPPT](https://img.shields.io/badge/OFPPT-yellow?style=for-the-badge&logo=education&logoColor=white) |
-| ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar&logoColor=white) | ![Electrical Tech Bac](https://img.shields.io/badge/Baccalauréat-Electrical-yellow?style=for-the-badge&logo=academic-cap&logoColor=white) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-yellow?style=for-the-badge&logo=school&logoColor=white) |
+| ![2024-2026](https://img.shields.io/badge/2024--2026-FFD700?style=for-the-badge&logo=calendar&logoColor=white) | ![Digital Development](https://img.shields.io/badge/Digital-Development-FFD700?style=for-the-badge&logo=computer&logoColor=white) | ![OFPPT](https://img.shields.io/badge/OFPPT-FFD700?style=for-the-badge&logo=education&logoColor=white) |
+| ![2023](https://img.shields.io/badge/2023-FFD700?style=for-the-badge&logo=calendar&logoColor=white) | ![Electrical Tech Bac](https://img.shields.io/badge/Baccalauréat-Electrical-FFD700?style=for-the-badge&logo=academic-cap&logoColor=white) | ![Lycée Hassan 2 Marrakech](https://img.shields.io/badge/Lycée_Hassan_2_Marrakech-FFD700?style=for-the-badge&logo=school&logoColor=white) |
 
 ---
 
 ### Languages
 
-![English](https://img.shields.io/badge/English-A2-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-A2-FFD700?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-![French](https://img.shields.io/badge/French-B1-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
+![French](https://img.shields.io/badge/French-B1-FFD700?style=for-the-badge&logo=googletranslate&logoColor=white)  
 
-![Arabic](https://img.shields.io/badge/Arabic-Native-yellow?style=for-the-badge&logo=googletranslate&logoColor=white)  
+![Arabic](https://img.shields.io/badge/Arabic-Native-FFD700?style=for-the-badge&logo=googletranslate&logoColor=white)  
 
 ---
 
