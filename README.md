@@ -102,16 +102,21 @@ I build modern, efficient, and well-structured web applications using best pract
 
 ## Collaboration
 
-I’m open to collaborations and new projects! Whether you want to:
+---
 
-- Build a web app  
-- Create a modern portfolio site  
-- Convert UI/UX designs to code  
-- Contribute to open-source projects  
+## Open to Collaborations & New Projects
 
-Feel free to reach out!
+Whether you want to:
+
+- ![Web App](https://img.shields.io/badge/Web%20Application-blue?style=flat-square&logo=appveyor) Build a web application  
+- ![Portfolio](https://img.shields.io/badge/Portfolio%20Site-green?style=flat-square&logo=jekyll) Create a modern portfolio site  
+- ![UI/UX](https://img.shields.io/badge/UI--UX%20to%20Code-orange?style=flat-square&logo=figma) Convert UI/UX designs to clean, efficient code  
+- ![Open Source](https://img.shields.io/badge/Open%20Source-purple?style=flat-square&logo=github) Contribute to open-source projects  
+
+Feel free to reach out — I’m always excited to collaborate and learn.
 
 ---
+
 
 ## Contact Me
 
