@@ -16,7 +16,7 @@
 ## About Me
 
 <p align="center">
-  <img src="banner.png" alt="Banner Abderrhman Settaoui" style="width:100%; max-height:300px; object-fit:cover;">
+  <img src="banner1.png" alt="Banner Abderrhman Settaoui" style="width:100%; max-height:300px; object-fit:cover;">
 </p>
 
 <p>
