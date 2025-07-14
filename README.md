@@ -98,7 +98,6 @@ I build modern, efficient, and well-structured web applications using best pract
   <img src="https://img.shields.io/badge/Arabic-Native-yellow?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabic">
 </p>
 
----
 
 ---
 
