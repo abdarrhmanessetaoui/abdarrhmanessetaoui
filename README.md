@@ -45,6 +45,8 @@ I build modern, efficient, and well-structured web applications using best pract
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Python -00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/C-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ### Tools & Platforms
