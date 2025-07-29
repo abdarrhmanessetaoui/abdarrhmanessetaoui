@@ -168,7 +168,13 @@ Feel free to reach out — I’m always excited to collaborate and learn.
 
 
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Mobile+App+Developer;Quality+Assurance+Engineer;Building+Scalable+Solutions)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
 
 
 ---
