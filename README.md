@@ -85,13 +85,14 @@ I create modern, efficient, and well-structured web applications using best prac
   </a>
 </div>
 
+---
 
 <div align="center">
   <a href="[https://github.com/abdarrhmanessetaoui/portfolio-site](https://github.com/abdarrhmanessetaoui/Curreny-Converter-App)" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdarrhmanessetaoui&repo=Curreny-Converter-App&theme=radical&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Curreny-Converter-App">
   </a>
 </div>
----
+
 
 ## Education
 
