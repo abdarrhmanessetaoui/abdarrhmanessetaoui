@@ -87,7 +87,7 @@ I create modern, efficient, and well-structured web applications using best prac
   </a>
 </div>
 
----
+
 
 <div align="center">
   <a href="[https://github.com/abdarrhmanessetaoui/portfolio-site](https://github.com/abdarrhmanessetaoui/Curreny-Converter-App)" target="_blank" rel="noopener noreferrer">
@@ -95,6 +95,8 @@ I create modern, efficient, and well-structured web applications using best prac
   </a>
 </div>
 
+
+---
 
 ## Education
 
