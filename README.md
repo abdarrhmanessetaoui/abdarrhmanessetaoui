@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;OFPPT+Student;Web+Developer;Always+Learning" alt="Typing SVG">
 </div>
 
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&color=yellow&style=flat-square&label=Profile+Views" alt="Profile Views">
@@ -11,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/abdarrhmanessetaoui?color=yellow&style=flat-square&logo=github&label=Stars" alt="GitHub Stars">
 </div>
 
----
+
 
 ## About Me
 
