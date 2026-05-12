@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abdarrhmanessetaoui)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdarrhmanessetaoui&color=000000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abdarrhmanessetaoui)
 [![Followers](https://img.shields.io/github/followers/abdarrhmanessetaoui?color=FFD700&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/abdarrhmanessetaoui?tab=followers)
 
 </div>
