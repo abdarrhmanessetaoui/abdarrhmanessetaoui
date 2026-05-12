@@ -41,7 +41,8 @@ Full-stack developer passionate about building modern, responsive, and scalable 
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,npm&perrow=9" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perrow=9" />
+<img src="https://cdn.simpleicons.org/jira" width="48" />
 
 </div>
 
