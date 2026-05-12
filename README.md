@@ -69,6 +69,8 @@ Full-stack developer passionate about building modern, responsive, and scalable 
       <h3>Table Booking App</h3>
       <p>Restaurant reservation app built with React and Tailwind CSS.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       <br/><br/>
       <a href="https://github.com/abdarrhmanessetaoui/tablebooking">
