@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=220&section=header&text=Abderrhman%20Settaoui&fontSize=52&fontColor=0D1117&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Marrakech%2C%20Morocco&descAlignY=56&descSize=20&descColor=0D1117" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=220&section=header&text=Abderrhman%20Settaoui&fontSize=52&fontColor=0D1117&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=56&descSize=20&descColor=0D1117" width="100%" />
 
 <div align="center">
 
