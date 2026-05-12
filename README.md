@@ -15,7 +15,7 @@
 
 ## About Me
 
-Full stack developer from Marrakech, Morocco. I build web apps with **React**, **Laravel** and the **MERN stack**. Currently studying Digital Development at OFPPT.
+Full-stack developer passionate about building modern, responsive, and scalable web applications with Laravel, MongoDB, Express.js, React, and Node.js. Focused on clean code, performance, and creating smooth user experiences.
 
 ---
 
